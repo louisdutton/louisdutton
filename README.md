@@ -1,1 +1,1 @@
-Hi I'm Louis: a web developer specialised in 3D rendering and audio processing
+Hi, I'm Louis. I'm an open-source audio developer based in Cornwall, United kingdom.
